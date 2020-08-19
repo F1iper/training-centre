@@ -1,0 +1,14 @@
+observer/notification/InternetNews.java
+ observer.notification.InternetNews
+observer/notification/RadioNews.java
+ observer.notification.RadioNews
+observer/weather/WeatherForecast.java
+ observer.weather.WeatherForecast
+observer/weather/Observable.java
+ observer.weather.Observable
+observer/notification/TvNews.java
+ observer.notification.TvNews
+observer/notification/Observer.java
+ observer.notification.Observer
+observer/Main.java
+ observer.Main

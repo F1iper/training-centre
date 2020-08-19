@@ -1,7 +1,9 @@
-import notification.InternetNews;
-import notification.RadioNews;
-import notification.TvNews;
-import weather.WeatherForecast;
+package observer;
+
+import observer.notification.InternetNews;
+import observer.notification.RadioNews;
+import observer.notification.TvNews;
+import observer.weather.WeatherForecast;
 
 public class Main {
     public static void main(String[] args) {
@@ -18,8 +20,9 @@ public class Main {
 
         weatherForecast.notifyObservers();
 
-        weatherForecast.unregisterObserver(radioNews);
-
-        weatherForecast.changeWeather(new WeatherForecast(42, 900));
+        weatherForecast.unregisterObserver(tvNews);
+        weatherForecast.unregisterObserver(internetNews);
+        System.out.println("The storm is coming, new weather from radio news: " );
+        weatherForecast.changeWeather(new WeatherForecast(22, 900));
     }
 }

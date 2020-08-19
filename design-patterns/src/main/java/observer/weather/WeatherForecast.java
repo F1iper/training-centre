@@ -1,6 +1,6 @@
-package weather;
+package observer.weather;
 
-import notification.Observer;
+import observer.notification.Observer;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -51,7 +51,7 @@ public class WeatherForecast implements Observable{
 
     @Override
     public void unregisterObserver(Observer observer) {
-    registeredObservers.remove(observer);
+        registeredObservers.remove(observer);
     }
 
     @Override

@@ -1,6 +1,6 @@
-package weather;
+package observer.weather;
 
-import notification.Observer;
+import observer.notification.Observer;
 
 public interface Observable {
     void registerObserver(Observer observer);
