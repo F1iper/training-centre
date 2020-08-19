@@ -1,2 +1,3 @@
 rootProject.name = 'training-centre'
+include 'design-patterns'
 

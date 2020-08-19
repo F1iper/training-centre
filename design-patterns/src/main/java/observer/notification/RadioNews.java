@@ -1,6 +1,6 @@
-package notification;
+package observer.notification;
 
-import weather.WeatherForecast;
+import observer.weather.WeatherForecast;
 
 public class RadioNews implements Observer {
     @Override
