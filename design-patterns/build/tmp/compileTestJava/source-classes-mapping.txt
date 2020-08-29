@@ -1,0 +1,2 @@
+behavioral/observer/weather/WeatherForecastTestSuite.java
+ behavioral.observer.weather.WeatherForecastTestSuite

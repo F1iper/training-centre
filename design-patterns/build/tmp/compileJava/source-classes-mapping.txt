@@ -1,14 +1,22 @@
-observer/notification/InternetNews.java
- observer.notification.InternetNews
-observer/notification/RadioNews.java
- observer.notification.RadioNews
-observer/weather/WeatherForecast.java
- observer.weather.WeatherForecast
-observer/weather/Observable.java
- observer.weather.Observable
-observer/notification/TvNews.java
- observer.notification.TvNews
-observer/notification/Observer.java
- observer.notification.Observer
-observer/Main.java
- observer.Main
+behavioral/observer/Main.java
+ behavioral.observer.Main
+creative/singleton/GameEngineEnum.java
+ creative.singleton.GameEngineEnum
+creative/singleton/thegame/GuessGame.java
+ creative.singleton.thegame.GuessGame
+behavioral/observer/weather/WeatherForecast.java
+ behavioral.observer.weather.WeatherForecast
+behavioral/observer/notification/RadioNews.java
+ behavioral.observer.notification.RadioNews
+creative/singleton/GameEngine.java
+ creative.singleton.GameEngine
+behavioral/observer/notification/Observer.java
+ behavioral.observer.notification.Observer
+behavioral/observer/weather/Observable.java
+ behavioral.observer.weather.Observable
+creative/Main.java
+ creative.Main
+behavioral/observer/notification/InternetNews.java
+ behavioral.observer.notification.InternetNews
+behavioral/observer/notification/TvNews.java
+ behavioral.observer.notification.TvNews

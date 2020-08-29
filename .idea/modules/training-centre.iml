@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:hibernate-demo:starter-files:hibernate.cfg.xml" value="4c0332a6-0828-4265-9747-9695a0b597e3" />
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:solution-code-hibernate-crud:src:hibernate.cfg.xml" value="85cf3923-88a4-497b-8f0d-8c00e6b7abef" />
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:solution-code-hibernate-crud:starter-files:hibernate.cfg.xml" value="dc0850aa-c8b6-4679-a6a4-e38e2c966f8c" />
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:solution-code-hibernate-hb-01-one-to-one-uni:src:hibernate.cfg.xml" value="cb18aa59-e99a-49a2-90c3-0bd40f3ae36c" />
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:solution-code-hibernate-hb-02-one-to-one-bi-delete-instructor-detail-only:src:hibernate.cfg.xml" value="1a401b1c-83e5-40b6-9701-d19c25b61c25" />
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:solution-code-hibernate-hb-02-one-to-one-bi:src:hibernate.cfg.xml" value="c5b289f3-bbe7-4e49-8ce9-b86ff8226743" />
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:solution-code-hibernate-hb-03-one-to-many:src:hibernate.cfg.xml" value="451e9505-1367-4927-b55d-2815fdfc87c1" />
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:solution-code-hibernate-hb-04-one-to-many-uni:src:hibernate.cfg.xml" value="25f3265a-5603-4d9d-aab6-e76e91ae27d8" />
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:solution-code-hibernate-hb-05-many-to-many:src:hibernate.cfg.xml" value="e44f0044-5883-450e-8b81-d2c66e110790" />
+          <unit-entry name="spring-and-hibernate-for-beginners:03-hibernate-5:solution-code-hibernate-hb-eager-vs-lazy-demo:src:hibernate.cfg.xml" value="cfa6328f-335b-4497-980a-cfe3eeb877f6" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/hibernate-demo/starter-files/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/solution-code-hibernate-crud/src/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/solution-code-hibernate-crud/starter-files/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/solution-code-hibernate-hb-01-one-to-one-uni/src/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/solution-code-hibernate-hb-02-one-to-one-bi-delete-instructor-detail-only/src/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/solution-code-hibernate-hb-02-one-to-one-bi/src/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/solution-code-hibernate-hb-03-one-to-many/src/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/solution-code-hibernate-hb-04-one-to-many-uni/src/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/solution-code-hibernate-hb-05-many-to-many/src/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/../../spring-and-hibernate-for-beginners/03-hibernate-5/solution-code-hibernate-hb-eager-vs-lazy-demo/src/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
