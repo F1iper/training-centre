@@ -1,0 +1,21 @@
+
+H
+java:S1068"+Remove this unused "zipCode" private field.(ŞùÎå8ÏŞİúÄ.
+O
+java:S1068	"-Remove this unused "firstname" private field.(ŒøÂÆşÿÿÿÿ8ûöÛúÄ.
+E
+java:S1068"(Remove this unused "city" private field.(“øÌà8ÏŞİúÄ.
+K
+java:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ8ûöÛúÄ.
+M
+java:S1068"+Remove this unused "surname" private field.(—‡¨åûÿÿÿÿ8ÏŞİúÄ.
+L
+java:S1068
+"/Remove this unused "middleNames" private field.(Œç±Á8ûöÛúÄ.
+H
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8ûöÛúÄ.
+]	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(ÜêêÕ8£ÃéúÄ.
+L
+java:S1068"/Remove this unused "houseNumber" private field.(¢ÂÚí8ÏŞİúÄ.
+G
+java:S1068"*Remove this unused "street" private field.(›¸8ÏŞİúÄ.

@@ -1,0 +1,38 @@
+
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(­ªöÚùÿÿÿÿ
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(íË©ÿüÿÿÿÿ
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(†Ò²øşÿÿÿÿ
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¯·Öõûÿÿÿÿ
+y
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(§ÑÎÔ
+y
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(÷¯Úº
+y
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(÷îØÂ
+o
+java:S1104"YMake INCH_TO_METER a static final constant or non-public and provide accessors if needed.(…š„«
+o
+java:S1104"YMake FOOT_TO_METER a static final constant or non-public and provide accessors if needed.(İ‹¥
+t
+java:S1104"YMake MILE_TO_METER a static final constant or non-public and provide accessors if needed.(¾†É°ÿÿÿÿÿ
+r
+java:S1104"WMake MM_TO_METER a static final constant or non-public and provide accessors if needed.(«”©Îüÿÿÿÿ
+m
+java:S1104"WMake CM_TO_METER a static final constant or non-public and provide accessors if needed.(ÚÔ±¯
+m
+java:S1104	"WMake KM_TO_METER a static final constant or non-public and provide accessors if needed.(Õ”ƒ
+r
+java:S1104
+"WMake YD_TO_METER a static final constant or non-public and provide accessors if needed.(ËˆŒŸÿÿÿÿÿ
+m	java:S116"XRename this field "INCH_TO_METER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…š„«
+m	java:S116"XRename this field "FOOT_TO_METER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‹¥
+r	java:S116"XRename this field "MILE_TO_METER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾†É°ÿÿÿÿÿ
+p	java:S116"VRename this field "MM_TO_METER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«”©Îüÿÿÿÿ
+k	java:S116"VRename this field "CM_TO_METER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÔ±¯
+k	java:S116	"VRename this field "KM_TO_METER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ”ƒ
+p	java:S116
+"VRename this field "YD_TO_METER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËˆŒŸÿÿÿÿÿ

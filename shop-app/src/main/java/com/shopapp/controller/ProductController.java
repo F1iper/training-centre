@@ -3,7 +3,6 @@ package com.shopapp.controller;
 import com.shopapp.domain.ProductDto;
 import org.springframework.web.bind.annotation.*;
 
-import javax.persistence.Table;
 import java.util.ArrayList;
 import java.util.List;
 
