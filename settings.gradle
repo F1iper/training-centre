@@ -1,4 +1,5 @@
 rootProject.name = 'training-centre'
 include 'java-start'
 include 'streams'
+include 'design-patterns'
 
