@@ -1,0 +1,9 @@
+
+…
+java:S41655"cRemove this useless assignment; "walls" already holds the assigned value along all execution paths.(Œş¹ïıÿÿÿÿ8ØêÒÒÆ.
+€
+java:S41654"cRemove this useless assignment; "doors" already holds the assigned value along all execution paths.(ÔÎô8ØêÒÒÆ.
+†
+java:S41653"dRemove this useless assignment; "floors" already holds the assigned value along all execution paths.(Ö€ïüÿÿÿÿ8ØêÒÒÆ.
+
+java:S41652"bRemove this useless assignment; "roof" already holds the assigned value along all execution paths.(ùÚ’Æ8ØêÒÒÆ.

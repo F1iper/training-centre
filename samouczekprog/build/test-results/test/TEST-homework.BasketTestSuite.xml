@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="homework.BasketTestSuite" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-09-09T15:04:41" hostname="F1IPER-F1IPER" time="0.007">
+  <properties/>
+  <testcase name="shouldThrowExceptionWhenThereIsNoThatManyitemsToRemove" classname="homework.BasketTestSuite" time="0.001"/>
+  <testcase name="shouldPrintSimpleOrder" classname="homework.BasketTestSuite" time="0.001"/>
+  <testcase name="shouldAllowToRemove2ItemsAtOnce" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldTrowExcptionWhenRemovingNegativeQuantity" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldAllowToAddItemWithQuantityMany" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldTrowExcptionWhenRemoving0Items" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldComputeSimpleOrderValue" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldAllowToAddTheSameItemTwice" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldAllowToAddItemToBasket" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldComputeOrderWithManyItemsValue" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldRemoveAllItemsFromBasket" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldAllowToAddItemWithQuantityOne" classname="homework.BasketTestSuite" time="0.001"/>
+  <testcase name="shouldntAllowToAddItemWithQuantityZero" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldDifferentiateBetweenToysWithSameNameDifferentPrice" classname="homework.BasketTestSuite" time="0.001"/>
+  <testcase name="shouldntAllowToAddItemWithNegativeQuantity" classname="homework.BasketTestSuite" time="0.0"/>
+  <testcase name="shouldAllowToRemoveItemFromBasket" classname="homework.BasketTestSuite" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
