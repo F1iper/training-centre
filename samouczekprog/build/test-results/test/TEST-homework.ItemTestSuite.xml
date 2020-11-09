@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="homework.ItemTestSuite" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-09-14T19:10:51" hostname="F1IPER-F1IPER" time="0.001">
+  <properties/>
+  <testcase name="itemsWithDifferentNamesArentEqual" classname="homework.ItemTestSuite" time="0.0"/>
+  <testcase name="twoItemsWithSamePriceAndNameShouldBeEqual" classname="homework.ItemTestSuite" time="0.0"/>
+  <testcase name="itemsWithTheSameNameShouldHaveSameHash" classname="homework.ItemTestSuite" time="0.0"/>
+  <testcase name="itemsWithDifferentPriceArentEqual" classname="homework.ItemTestSuite" time="0.0"/>
+  <testcase name="itemsWithDifferentPriceAndTheSameNameShouldBeOrdered" classname="homework.ItemTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

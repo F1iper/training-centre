@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unittest.RangeTestSuite2" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-14T19:10:51" hostname="F1IPER-F1IPER" time="0.002">
+  <properties/>
+  <testcase name="test1" classname="unittest.RangeTestSuite2" time="0.001"/>
+  <testcase name="test2" classname="unittest.RangeTestSuite2" time="0.001"/>
+  <system-out><![CDATA[set up class
+set up
+test 1
+tear down
+set up
+test 2
+tear down
+tear down class
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
