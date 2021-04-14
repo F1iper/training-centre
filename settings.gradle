@@ -4,4 +4,5 @@ include 'streams'
 include 'design-patterns'
 include 'samouczekprog'
 include 'kodilla-tasks'
+include 'hyperskill'
 
